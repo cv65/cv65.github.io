@@ -12,3 +12,10 @@ Steps to create:
   533  git remote add origin https://github.com/cv65/cv65.github.io.git
   534  git push -u origin master
 
+cv000540@MININT-LMH7UK7 ~/cv65
+$ git config --global user.name "Chris Vagnini"
+
+cv000540@MININT-LMH7UK7 ~/cv65
+$ git config --global user.email "github@vagnini.org"
+
+

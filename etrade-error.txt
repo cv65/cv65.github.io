@@ -1,0 +1,16 @@
+What is this $25 fee on account xxxxxx-9562?
+
+01/03/2022	Type Fee	 	Description SERVICE FEE
+Comment: Return Item Fee 25:01
+Categories
+Unassigned
+Amount($) -25.00	Balance($) -17.67
+
+And what does 
+Return Item Fee 25:01 
+mean?   I have no returned items, and I don't find any fee like this listed on https://us.etrade.com/bank/bank-rates.
+
+Thanks
+Xxxxx Xxxxxxx
+508-921-xxxx if this needs a phone call to discuss.
+Happy New Year!
